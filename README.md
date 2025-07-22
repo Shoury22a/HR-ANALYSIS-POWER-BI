@@ -14,7 +14,7 @@ This Power BI project aims to analyze various aspects of Human Resources (HR) da
 
 ## TECHNOLOGIES USED:
 
-    •	📈  Power Bi 
+    •	📈  Power Bi (using DAX)
 
     •	Statistic.<br><br>
 
